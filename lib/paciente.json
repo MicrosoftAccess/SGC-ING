@@ -3,7 +3,7 @@
   "pabellon":"urgencia",
   "name":"John Doe",
   "rut":"202483290",
-  "sexo":"si,por favor",
+  "sexo":"masculino",
   "entrada":"12/3/2023",
   "hora":"13:29",
   "estado":"disponible",
@@ -17,7 +17,7 @@
   "pabellon":"urgencia",
   "name":"John Doe",
   "rut":"202483290",
-  "sexo":"si,por favor",
+  "sexo":"masculino",
   "entrada":"12/3/2023",
   "hora":"13:29",
   "estado":"disponible"
@@ -27,7 +27,7 @@
   "pabellon":"urgencia",
   "name":"John Doe",
   "rut":"202483290",
-  "sexo":"si,por favor",
+  "sexo":"masculino",
   "entrada":"12/3/2023",
   "hora":"13:29",
   "estado":"disponible"
@@ -37,7 +37,7 @@
   "pabellon":"urgencia",
   "name":"John Doe",
   "rut":"202483290",
-  "sexo":"si,por favor",
+  "sexo":"masculino",
   "entrada":"12/3/2023",
   "hora":"13:29",
   "estado":"disponible"
@@ -47,7 +47,7 @@
   "pabellon":"urgencia",
   "name":"John Doe",
   "rut":"202483290",
-  "sexo":"si,por favor",
+  "sexo":"masculino",
   "entrada":"12/3/2023",
   "hora":"13:29",
   "estado":"disponible"
@@ -57,7 +57,7 @@
   "pabellon":"urgencia",
   "name":"John Doe",
   "rut":"202483290",
-  "sexo":"si,por favor",
+  "sexo":"femenino",
   "entrada":"12/3/2023",
   "hora":"13:29",
   "estado":"disponible"
@@ -67,7 +67,7 @@
   "pabellon":"urgencia",
   "name":"John Doe",
   "rut":"202483290",
-  "sexo":"si,por favor",
+  "sexo":"femenino",
   "entrada":"12/3/2023",
   "hora":"13:29",
   "estado":"disponible"
@@ -77,7 +77,7 @@
   "pabellon":"urgencia",
   "name":"John Doe",
   "rut":"202483290",
-  "sexo":"si,por favor",
+  "sexo":"femenino",
   "entrada":"12/3/2023",
   "hora":"13:29",
   "estado":"disponible"
@@ -87,7 +87,7 @@
   "pabellon":"urgencia",
   "name":"John Doe",
   "rut":"202483290",
-  "sexo":"si,por favor",
+  "sexo":"femenino",
   "entrada":"12/3/2023",
   "hora":"13:29",
   "estado":"ocupado"
@@ -97,7 +97,7 @@
   "pabellon":"urgencia",
   "name":"John Doe",
   "rut":"202483290",
-  "sexo":"si,por favor",
+  "sexo":"femenino",
   "entrada":"12/3/2023",
   "hora":"13:29",
   "estado":"disponible"
@@ -107,7 +107,7 @@
   "pabellon":"urgencia",
   "name":"John Doe",
   "rut":"202483290",
-  "sexo":"si,por favor",
+  "sexo":"masculino",
   "entrada":"12/3/2023",
   "hora":"13:29",
   "estado":"disponible"
@@ -117,7 +117,7 @@
   "pabellon":"urgencia",
   "name":"John Doe",
   "rut":"202483290",
-  "sexo":"si,por favor",
+  "sexo":"masculino",
   "entrada":"12/3/2023",
   "hora":"13:29",
   "estado":"mala"
@@ -127,7 +127,7 @@
   "pabellon":"urgencia",
   "name":"John Doe",
   "rut":"202483290",
-  "sexo":"si,por favor",
+  "sexo":"femenino",
   "entrada":"12/3/2023",
   "hora":"13:29",
   "estado":"mala"
@@ -137,7 +137,7 @@
   "pabellon":"urgencia",
   "name":"John Doe",
   "rut":"202483290",
-  "sexo":"si,por favor",
+  "sexo":"masculino",
   "entrada":"12/3/2023",
   "hora":"13:29",
   "estado":"ocupado"
@@ -147,7 +147,7 @@
   "pabellon":"urgencia",
   "name":"John Doe",
   "rut":"202483290",
-  "sexo":"si,por favor",
+  "sexo":"masculino",
   "entrada":"12/3/2023",
   "hora":"13:29",
   "estado":"ocupado"
@@ -157,7 +157,7 @@
   "pabellon":"urgencia",
   "name":"John Doe",
   "rut":"202483290",
-  "sexo":"si,por favor",
+  "sexo":"masculino",
   "entrada":"12/3/2023",
   "hora":"13:29",
   "estado":"ocupado"
@@ -167,7 +167,7 @@
   "pabellon":"urgencia",
   "name":"John Doe",
   "rut":"202483290",
-  "sexo":"si,por favor",
+  "sexo":"masculino",
   "entrada":"12/3/2023",
   "hora":"13:29",
   "estado":"ocupado"
@@ -177,7 +177,7 @@
   "pabellon":"urgencia",
   "name":"John Doe",
   "rut":"202483290",
-  "sexo":"si,por favor",
+  "sexo":"masculino",
   "entrada":"12/3/2023",
   "hora":"13:29",
   "estado":"disponible"
@@ -187,7 +187,7 @@
   "pabellon":"urgencia",
   "name":"John Doe",
   "rut":"202483290",
-  "sexo":"si,por favor",
+  "sexo":"femenino",
   "entrada":"12/3/2023",
   "hora":"13:29",
   "estado":"disponible"
@@ -197,7 +197,7 @@
   "pabellon":"urgencia",
   "name":"John Doe",
   "rut":"202483290",
-  "sexo":"si,por favor",
+  "sexo":"femenino",
   "entrada":"12/3/2023",
   "hora":"13:29",
   "estado":"disponible"
@@ -207,7 +207,7 @@
   "pabellon":"urgencia",
   "name":"John Doe",
   "rut":"202483290",
-  "sexo":"si,por favor",
+  "sexo":"femenino",
   "entrada":"12/3/2023",
   "hora":"13:29",
   "estado":"disponible"
@@ -217,7 +217,7 @@
   "pabellon":"urgencia",
   "name":"John Doe",
   "rut":"202483290",
-  "sexo":"si,por favor",
+  "sexo":"femenino",
   "entrada":"12/3/2023",
   "hora":"13:29",
   "estado":"mala"
@@ -227,7 +227,7 @@
   "pabellon":"urgencia",
   "name":"John Doe",
   "rut":"202483290",
-  "sexo":"si,por favor",
+  "sexo":"femenino",
   "entrada":"12/3/2023",
   "hora":"13:29",
   "estado":"mala"
@@ -237,7 +237,7 @@
   "pabellon":"urgencia",
   "name":"John Doe",
   "rut":"202483290",
-  "sexo":"si,por favor",
+  "sexo":"femenino",
   "entrada":"12/3/2023",
   "hora":"13:29",
   "estado":"mala"
@@ -247,7 +247,7 @@
   "pabellon":"urgencia",
   "name":"John Doe",
   "rut":"202483290",
-  "sexo":"si,por favor",
+  "sexo":"masculino",
   "entrada":"12/3/2023",
   "hora":"13:29",
   "estado":"mala"

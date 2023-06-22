@@ -71,7 +71,7 @@ export default function page() {
       <div className='w-full h-full flex flex-row'>
         <Sidebar></Sidebar>
         <div className='flex justify-center items-center h-full w-full'>
-          <Card className='w-[70%] text-center h-[50%]'>
+          <Card className='w-[1300px] text-center h-[700px]'>
             <CardHeader>
               <CardTitle>
                 <div className='flex w-full gap-3 justify-center flex flex-row'>
