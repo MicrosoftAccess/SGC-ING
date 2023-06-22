@@ -82,7 +82,7 @@ export default function page() {
                         <Button variant="outline">Filtar</Button>
                       </DropdownMenuTrigger>
                       <DropdownMenuContent className="w-56">
-                        <DropdownMenuLabel>Filtar por: </DropdownMenuLabel>
+                        <DropdownMenuLabel>Filtrar por: </DropdownMenuLabel>
                         <DropdownMenuSeparator />
                         <DropdownMenuRadioGroup value={position} onValueChange={setPosition}>
                           <DropdownMenuRadioItem onClick={filterAll} value="todo">Todo</DropdownMenuRadioItem>
@@ -107,8 +107,9 @@ export default function page() {
               </CardTitle>
               {/* <CardDescription>Card Description</CardDescription> */}
             </CardHeader>
-            <CardContent className='overflow-y-scroll h-[80%]'>
-              <Table>
+            <CardContent className="max-h-[60%]  overflow-y-scroll">
+
+              <Table >
                 <TableHeader>
                   <TableRow>
                     <TableHead className='text-center'>N° de cama</TableHead>
@@ -122,7 +123,7 @@ export default function page() {
                     <TableHead className='text-center'>Acciones</TableHead>
                   </TableRow>
                 </TableHeader>
-                <TableBody>
+                <TableBody className="">
 
                   {filter.map(paciente => (
                     <TableRow>
@@ -156,6 +157,7 @@ export default function page() {
                   ))}
                 </TableBody>
               </Table>
+
 
             </CardContent>
             {/* <CardFooter>
