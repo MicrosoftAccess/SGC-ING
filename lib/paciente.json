@@ -1,255 +1,242 @@
-[{
-  "id":1,
-  "pabellon":"urgencia",
-  "name":"John Doe",
-  "rut":"202483290",
-  "sexo":"masculino",
-  "entrada":"12/3/2023",
-  "hora":"13:29",
-  "estado":"disponible",
-  "edad":29,
-  "contacto":"+569758934",
-  "direccion":"Calle falsa, 123 , Ciudad Falsa",
-  "prevision":"Fonasa"
+[
+  {
+    "id":1,
+    "pabellon":"urgencia",
+    "name":"John Doe",
+    "rut":"202483290",
+    "sexo":"masculino",
+    "entrada":"12/3/2023",
+    "hora":"13:29",
+    "estado":"ocupado",
+    "edad":29,
+    "contacto":"+569758934",
+    "direccion":"Calle falsa, 123 , Ciudad Falsa",
+    "prevision":"Fonasa"
 
-},{
-  "id":2,
-  "pabellon":"urgencia",
-  "name":"John Doe",
-  "rut":"202483290",
-  "sexo":"masculino",
-  "entrada":"12/3/2023",
-  "hora":"13:29",
-  "estado":"disponible"
+  },
+  {
+    "id":2,
+    "pabellon":"urgencia",
+    "name":"John Doe",
+    "rut":"202483290",
+    "sexo":"masculino",
+    "entrada":"12/3/2023",
+    "hora":"13:29",
+    "estado":"ocupado",
+    "edad":29,
+    "contacto":"+569758934",
+    "direccion":"Calle falsa, 123 , Ciudad Falsa",
+    "prevision":"Fonasa"
 
-},{
-  "id":3,
-  "pabellon":"urgencia",
-  "name":"John Doe",
-  "rut":"202483290",
-  "sexo":"masculino",
-  "entrada":"12/3/2023",
-  "hora":"13:29",
-  "estado":"disponible"
+  },
+  {
+    "id":3,
+    "pabellon":"urgencia",
+    "name":"John Doe",
+    "rut":"202483290",
+    "sexo":"masculino",
+    "entrada":"12/3/2023",
+    "hora":"13:29",
+    "estado":"ocupado",
+    "edad":29,
+    "contacto":"+569758934",
+    "direccion":"Calle falsa, 123 , Ciudad Falsa",
+    "prevision":"Fonasa"
 
-},{
-  "id":4,
-  "pabellon":"urgencia",
-  "name":"John Doe",
-  "rut":"202483290",
-  "sexo":"masculino",
-  "entrada":"12/3/2023",
-  "hora":"13:29",
-  "estado":"disponible"
+  },
+  {
+    "id":4,
+    "pabellon":"",
+    "name":"",
+    "rut":"",
+    "sexo":"",
+    "entrada":"",
+    "hora":"",
+    "estado":"disponible",
+    "edad":"",
+    "contacto":"",
+    "direccion":"",
+    "prevision":""
 
-},{
-  "id":5,
-  "pabellon":"urgencia",
-  "name":"John Doe",
-  "rut":"202483290",
-  "sexo":"masculino",
-  "entrada":"12/3/2023",
-  "hora":"13:29",
-  "estado":"disponible"
+  },
+  {
+    "id":5,
+    "pabellon":"",
+    "name":"",
+    "rut":"",
+    "sexo":"",
+    "entrada":"",
+    "hora":"",
+    "estado":"disponible",
+    "edad":"",
+    "contacto":"",
+    "direccion":"",
+    "prevision":""
 
-},{
-  "id":6,
-  "pabellon":"urgencia",
-  "name":"John Doe",
-  "rut":"202483290",
-  "sexo":"femenino",
-  "entrada":"12/3/2023",
-  "hora":"13:29",
-  "estado":"disponible"
+  },
+  {
+    "id":6,
+    "pabellon":"urgencia",
+    "name":"John Doe",
+    "rut":"202483290",
+    "sexo":"masculino",
+    "entrada":"12/3/2023",
+    "hora":"13:29",
+    "estado":"ocupado",
+    "edad":29,
+    "contacto":"+569758934",
+    "direccion":"Calle falsa, 123 , Ciudad Falsa",
+    "prevision":"Fonasa"
 
-},{
-  "id":7,
-  "pabellon":"urgencia",
-  "name":"John Doe",
-  "rut":"202483290",
-  "sexo":"femenino",
-  "entrada":"12/3/2023",
-  "hora":"13:29",
-  "estado":"disponible"
+  },
+  {
+    "id":7,
+    "pabellon":"",
+    "name":"",
+    "rut":"",
+    "sexo":"",
+    "entrada":"",
+    "hora":"",
+    "estado":"disponible",
+    "edad":"",
+    "contacto":"",
+    "direccion":"",
+    "prevision":""
 
-},{
-  "id":8,
-  "pabellon":"urgencia",
-  "name":"John Doe",
-  "rut":"202483290",
-  "sexo":"femenino",
-  "entrada":"12/3/2023",
-  "hora":"13:29",
-  "estado":"disponible"
+  },
+  {
+    "id":8,
+    "pabellon":"",
+    "name":"",
+    "rut":"",
+    "sexo":"",
+    "entrada":"",
+    "hora":"",
+    "estado":"disponible",
+    "edad":"",
+    "contacto":"",
+    "direccion":"",
+    "prevision":""
 
-},{
-  "id":9,
-  "pabellon":"urgencia",
-  "name":"John Doe",
-  "rut":"202483290",
-  "sexo":"femenino",
-  "entrada":"12/3/2023",
-  "hora":"13:29",
-  "estado":"ocupado"
+  },
+  {
+    "id":9,
+    "pabellon":"urgencia",
+    "name":"John Doe",
+    "rut":"202483290",
+    "sexo":"masculino",
+    "entrada":"12/3/2023",
+    "hora":"13:29",
+    "estado":"ocupado",
+    "edad":29,
+    "contacto":"+569758934",
+    "direccion":"Calle falsa, 123 , Ciudad Falsa",
+    "prevision":"Fonasa"
 
-},{
-  "id":10,
-  "pabellon":"urgencia",
-  "name":"John Doe",
-  "rut":"202483290",
-  "sexo":"femenino",
-  "entrada":"12/3/2023",
-  "hora":"13:29",
-  "estado":"disponible"
+  },
+  {
+    "id":10,
+    "pabellon":"urgencia",
+    "name":"John Doe",
+    "rut":"202483290",
+    "sexo":"masculino",
+    "entrada":"12/3/2023",
+    "hora":"13:29",
+    "estado":"ocupado",
+    "edad":29,
+    "contacto":"+569758934",
+    "direccion":"Calle falsa, 123 , Ciudad Falsa",
+    "prevision":"Fonasa"
 
-},{
-  "id":11,
-  "pabellon":"urgencia",
-  "name":"John Doe",
-  "rut":"202483290",
-  "sexo":"masculino",
-  "entrada":"12/3/2023",
-  "hora":"13:29",
-  "estado":"disponible"
+  },
+  {
+    "id":11,
+    "pabellon":"urgencia",
+    "name":"John Doe",
+    "rut":"202483290",
+    "sexo":"masculino",
+    "entrada":"12/3/2023",
+    "hora":"13:29",
+    "estado":"ocupado",
+    "edad":29,
+    "contacto":"+569758934",
+    "direccion":"Calle falsa, 123 , Ciudad Falsa",
+    "prevision":"Fonasa"
 
-},{
-  "id":12,
-  "pabellon":"urgencia",
-  "name":"John Doe",
-  "rut":"202483290",
-  "sexo":"masculino",
-  "entrada":"12/3/2023",
-  "hora":"13:29",
-  "estado":"mala"
+  }, {
+    "id":12,
+    "pabellon":"",
+    "name":"",
+    "rut":"",
+    "sexo":"",
+    "entrada":"",
+    "hora":"",
+    "estado":"mala",
+    "edad":"",
+    "contacto":"",
+    "direccion":"",
+    "prevision":""
 
-},{
-  "id":13,
-  "pabellon":"urgencia",
-  "name":"John Doe",
-  "rut":"202483290",
-  "sexo":"femenino",
-  "entrada":"12/3/2023",
-  "hora":"13:29",
-  "estado":"mala"
+  },
+  {
+    "id":13,
+    "pabellon":"",
+    "name":"",
+    "rut":"",
+    "sexo":"",
+    "entrada":"",
+    "hora":"",
+    "estado":"mala",
+    "edad":"",
+    "contacto":"",
+    "direccion":"",
+    "prevision":""
 
-},{
-  "id":14,
-  "pabellon":"urgencia",
-  "name":"John Doe",
-  "rut":"202483290",
-  "sexo":"masculino",
-  "entrada":"12/3/2023",
-  "hora":"13:29",
-  "estado":"ocupado"
+  },
+  {
+    "id":14,
+    "pabellon":"",
+    "name":"",
+    "rut":"",
+    "sexo":"",
+    "entrada":"",
+    "hora":"",
+    "estado":"disponible",
+    "edad":"",
+    "contacto":"",
+    "direccion":"",
+    "prevision":""
 
-},{
-  "id":15,
-  "pabellon":"urgencia",
-  "name":"John Doe",
-  "rut":"202483290",
-  "sexo":"masculino",
-  "entrada":"12/3/2023",
-  "hora":"13:29",
-  "estado":"ocupado"
+  },
+  {
+    "id":15,
+    "pabellon":"",
+    "name":"",
+    "rut":"",
+    "sexo":"",
+    "entrada":"",
+    "hora":"",
+    "estado":"disponible",
+    "edad":"",
+    "contacto":"",
+    "direccion":"",
+    "prevision":""
 
-},{
-  "id":16,
-  "pabellon":"urgencia",
-  "name":"John Doe",
-  "rut":"202483290",
-  "sexo":"masculino",
-  "entrada":"12/3/2023",
-  "hora":"13:29",
-  "estado":"ocupado"
+  },
+  {
+    "id":16,
+    "pabellon":"",
+    "name":"",
+    "rut":"",
+    "sexo":"",
+    "entrada":"",
+    "hora":"",
+    "estado":"mala",
+    "edad":"",
+    "contacto":"",
+    "direccion":"",
+    "prevision":""
 
-},{
-  "id":17,
-  "pabellon":"urgencia",
-  "name":"John Doe",
-  "rut":"202483290",
-  "sexo":"masculino",
-  "entrada":"12/3/2023",
-  "hora":"13:29",
-  "estado":"ocupado"
+  }
 
-},{
-  "id":18,
-  "pabellon":"urgencia",
-  "name":"John Doe",
-  "rut":"202483290",
-  "sexo":"masculino",
-  "entrada":"12/3/2023",
-  "hora":"13:29",
-  "estado":"disponible"
-
-},{
-  "id":19,
-  "pabellon":"urgencia",
-  "name":"John Doe",
-  "rut":"202483290",
-  "sexo":"femenino",
-  "entrada":"12/3/2023",
-  "hora":"13:29",
-  "estado":"disponible"
-
-},{
-  "id":20,
-  "pabellon":"urgencia",
-  "name":"John Doe",
-  "rut":"202483290",
-  "sexo":"femenino",
-  "entrada":"12/3/2023",
-  "hora":"13:29",
-  "estado":"disponible"
-
-},{
-  "id":21,
-  "pabellon":"urgencia",
-  "name":"John Doe",
-  "rut":"202483290",
-  "sexo":"femenino",
-  "entrada":"12/3/2023",
-  "hora":"13:29",
-  "estado":"disponible"
-
-},{
-  "id":22,
-  "pabellon":"urgencia",
-  "name":"John Doe",
-  "rut":"202483290",
-  "sexo":"femenino",
-  "entrada":"12/3/2023",
-  "hora":"13:29",
-  "estado":"mala"
-
-},{
-  "id":23,
-  "pabellon":"urgencia",
-  "name":"John Doe",
-  "rut":"202483290",
-  "sexo":"femenino",
-  "entrada":"12/3/2023",
-  "hora":"13:29",
-  "estado":"mala"
-
-},{
-  "id":24,
-  "pabellon":"urgencia",
-  "name":"John Doe",
-  "rut":"202483290",
-  "sexo":"femenino",
-  "entrada":"12/3/2023",
-  "hora":"13:29",
-  "estado":"mala"
-
-},{
-  "id":25,
-  "pabellon":"urgencia",
-  "name":"John Doe",
-  "rut":"202483290",
-  "sexo":"masculino",
-  "entrada":"12/3/2023",
-  "hora":"13:29",
-  "estado":"mala"
-
-}]
+]

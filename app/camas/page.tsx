@@ -138,7 +138,7 @@ export default function page() {
                         <div className='flex items-center justify-center'>
                           {paciente.estado == "disponible" && <FontAwesomeIcon style={{ width: '20px', height: '20px', color: "green" }} icon={faCircleExclamation} />}
                           {paciente.estado == "ocupado" && <FontAwesomeIcon style={{ width: '20px', height: '20px', color: "gold" }} icon={faCircleExclamation} />}
-                          {paciente.estado == "mala" && <FontAwesomeIcon style={{ width: '20px', height: '20px', color: "orange" }} icon={faCircleExclamation} />}
+                          {paciente.estado == "mala" && <FontAwesomeIcon style={{ width: '20px', height: '20px', color: "red" }} icon={faCircleExclamation} />}
                         </div>
 
                       </TableCell>
@@ -146,7 +146,7 @@ export default function page() {
                       <TableCell >
                         <div className='flex flex-row justify-center items-center'>
                           {/* <Modal></Modal> */}
-                          {paciente.estado == "disponible" &&
+                          {paciente.estado == "ocupado" &&
                             <ModalDelete></ModalDelete>
                           }
                           <ModalRead props={paciente}></ModalRead>

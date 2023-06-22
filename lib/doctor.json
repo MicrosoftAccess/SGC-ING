@@ -1,5 +1,15 @@
 {
-  "nombre":"Juan Alberto Ortiz",
-  "especialidad":"Cirujano",
-  ""
+  "id":1,
+  "pabellon":"",
+  "name":"",
+  "rut":"",
+  "sexo":"",
+  "entrada":"",
+  "hora":"",
+  "estado":"",
+  "edad":"",
+  "contacto":"",
+  "direccion":"",
+  "prevision":""
+
 }

@@ -8,17 +8,15 @@ export default function Sidebar() {
   return (
     <div className='h-full w-[100px] bg-slate-500 flex flex-col justify-center items-center'>
       <div className='w-full flex items-center gap-4 justify-center flex-col'>
-        <div className='w-full h-10'>
 
-          <Link href="/perfil">
-            <Button className='w-full h-10 bg-slate-500'><FontAwesomeIcon icon={faUser} /></Button>
-          </Link>
-        </div>
-        <Link className='w-full h-10' href="/camas">
-          <Button className='w-full max-h-10 bg-slate-500'><FontAwesomeIcon icon={faBed} /></Button>
+        <Link href="/perfil">
+          <FontAwesomeIcon style={{ height: '20px', width: "20px", color: 'white' }} icon={faUser} />
         </Link>
-        <Link href="/pacientes" className='w-10 h-10'>
-          <Button className='w-full max-h-10 bg-slate-500'><FontAwesomeIcon icon={faHouseMedicalCircleXmark} /></Button>
+        <Link href="/camas">
+          <FontAwesomeIcon style={{ height: '20px', width: "20px", color: 'white' }} icon={faBed} />
+        </Link>
+        <Link href="/pacientes" >
+          <FontAwesomeIcon style={{ height: '20px', width: "20px", color: 'white' }} icon={faHouseMedicalCircleXmark} />
         </Link>
       </div>
     </div>
