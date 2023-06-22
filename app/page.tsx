@@ -2,38 +2,36 @@ import Link from "next/link"
 
 import { siteConfig } from "@/config/site"
 import { buttonVariants } from "@/components/ui/button"
-
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardFooter,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card"
+import { Input } from "@/components/ui/input"
+import { Button } from "@/components/ui/button"
 export default function IndexPage() {
   return (
-    <section className="container grid items-center gap-6 pb-8 pt-6 md:py-10">
-      <div className="flex max-w-[980px] flex-col items-start gap-2">
-        <h1 className="text-3xl font-extrabold leading-tight tracking-tighter md:text-4xl">
-          Beautifully designed components <br className="hidden sm:inline" />
-          built with Radix UI and Tailwind CSS.
-        </h1>
-        <p className="max-w-[700px] text-lg text-muted-foreground">
-          Accessible and customizable components that you can copy and paste
-          into your apps. Free. Open Source. And Next.js 13 Ready.
-        </p>
-      </div>
-      <div className="flex gap-4">
-        <Link
-          href={siteConfig.links.docs}
-          target="_blank"
-          rel="noreferrer"
-          className={buttonVariants()}
-        >
-          Documentation
-        </Link>
-        <Link
-          target="_blank"
-          rel="noreferrer"
-          href={siteConfig.links.github}
-          className={buttonVariants({ variant: "outline" })}
-        >
-          GitHub
-        </Link>
-      </div>
-    </section>
+    <div className="h-full w-full flex justify-center items-center">
+      <Card className="shadow-xl w-[25%] h-[35%]">
+        <CardHeader className="text-center">
+          <CardTitle className="text-4xl">Inicio de sesión</CardTitle>
+          <CardDescription>Ingrese sus credenciales</CardDescription>
+        </CardHeader>
+        <CardContent className="w-full h-[50%] items-center flex justify-center flex-col gap-2">
+          <Input placeholder="Usuario" type="text"></Input>
+          <Input placeholder="Contraseña" type="password"></Input>
+        </CardContent>
+        <CardFooter className="w-full flex items-center justify-center">
+          <Link className="w-full" href="/camas">
+            <Button className="bg-green-500 w-full">Iniciar sesión</Button>
+          </Link>
+        </CardFooter>
+      </Card>
+
+
+    </div>
   )
 }

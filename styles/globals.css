@@ -79,3 +79,10 @@
     font-feature-settings: "rlig" 1, "calt" 1;
   }
 }
+
+html,body, #__next {
+  height: 100% !important;
+  box-sizing: border-box;
+  margin: 0;
+  font-family: 'ZX Spectrum-7', sans-serif;
+}
