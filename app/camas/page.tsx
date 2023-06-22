@@ -126,7 +126,7 @@ export default function page() {
                 <TableBody className="">
 
                   {filter.map(paciente => (
-                    <TableRow>
+                    <TableRow key={paciente.id}>
                       <TableCell className="font-medium">{paciente.id}</TableCell>
                       <TableCell>{paciente.pabellon}</TableCell>
                       <TableCell>{paciente.name}</TableCell>
